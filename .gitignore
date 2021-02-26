@@ -1,0 +1,10 @@
+begentletel/Assets/TextMesh Pro/
+begentletel/Library/
+begentletel/ProjectSettings/
+begentletel/Temp/
+begentletel/Packages/manifest.json
+begentletel/Packages/packages-lock.json
+begentletel/UserSettings/EditorUserSettings.asset
+begentletel/Logs/Packages-Update.log
+*.apk
+*.meta
